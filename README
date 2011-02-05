@@ -1,0 +1,7 @@
+This is a collection of my git scripts. 
+
+Right now here is only one script for creating a remote branch and tracking it then locally.
+Every time I need to create a new remote branch and track it I google the best way to do it
+or read docs. One day I've deciced to write simple script to forget how to do it forever...
+
+All scripts are distributed under the MIT License. See more info in the LICENSE file. 
